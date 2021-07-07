@@ -64,4 +64,4 @@ print('#'*40)
 print()
 
 
-print(f'MENSAGEM DESCRIPTOGRAFADA\n\n {cripto(mensagem)}')        
+print(f'MENSAGEM CRIPTOGRAFADA\n\n {cripto(mensagem)}')        
